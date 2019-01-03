@@ -1,3 +1,4 @@
 hej Gustav
 hej igen
 hej fra det nye sted
+y=sin(x)
